@@ -31,7 +31,13 @@ The level of significance is 0.05. Lot 1 and Lot 2 have a p-value of 0.06028 and
 
 ## Study Design: MechaCar vs Competition.
 
+The comparesene between MechaCar and other competitive manufactures, the most interests metrics to consumers would be gas efficiency per city and highway, safety rating, price, size (sedan, suv, pickup..etc) and maintenace availabilty and offers.
 
+Null & Alternative Hypothesis Ho = vehicle size has zero or no significant effect on car price Ha = the price of cars increase when vehicle size increases.
+
+Runing multiple linear regression analysis and summary for mileage, safety rating, and the size of the vehicle with regards to how it affects price. Since there are multiple independent variables to analyse against a single dependent variable. therfore, Taking a look at the P-Value for each variable to determine the significance of variable against a significance level of 0.05. Anythiny under 0.05 will require to reject the null hypothesis.
+
+Furthermore, we need safety ratings, price, citg MPG, highway MPG, price and car size catogorized by car model and year. We would review sales data for the past few years to further study and analyze particular type of car to see how it has changed over the years. If we see the average of sales declined, we might want to consider other marketings strategies.
 
 
 
